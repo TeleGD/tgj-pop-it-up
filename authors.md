@@ -1,3 +1,3 @@
-- Fabien Bernier
-- Océane Chazé
+- Fabien Bernier (@Locust2520)
+- Océane Chazé (@OceaneC)
 - Antoine Jesus
